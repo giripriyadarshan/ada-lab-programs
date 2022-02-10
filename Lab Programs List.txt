@@ -1,0 +1,40 @@
+Analysis and Design of Algorithms Lab Programs List
+
+Part A:
+    1. Implement recursive binary search and linear search and determine the time required to search an element. Record the time taken for the best case and worst case.
+
+    2. Write a program to find the maximum and minimum numbers in an array using the divide and conquer technique. Record the time taken.
+
+    3. Sort a given set of elements using the quick sort method and determine the time required to sort the elements. Repeat the experiment for different values of n, the number of elements in the 1st to be sorted and plot a graph of the time taken versus n. The elements can be read from a file or can be generated using the random number generator.
+
+    4. Implement the mergesort algorithm to sort a given set of elements and determine the time required to sort the elements. Repeat the experiment for different values of n, the number of elements in the list to be sorted and plot a graph of the time taken versus n. The elements can be read from a file or can be generated using the random number generator.
+
+    5. Find Minimum Cost Spanning Tree of a given undirected graph using Prim’s algorithm.
+
+    6. Write a program to implement all pairs shortest path problem using Floyd’s algorithm.
+
+    7. From a given vertex in a weighted connected graph, find shortest paths to other vertices using Dijkstra's algorithm.
+
+    8. Given a Binary tree, implement recursive in-order, pre-order and post-order tree traversals.
+
+
+Part B:
+    1. Write a Program to check the given list contains unique elements.
+
+    2. Write a  Program to sort the numbers using selection sort algorithm.
+
+    3. Write a  Program to sort the numbers using Bubble sort algorithm.
+
+    4. Write a  Program to find the sum of array elements using recursion.
+
+    5. Write a  Program to calculate nth Fibonacci value using recursion and determine the time
+
+    6. Write a  Program to find minimum cost spanning tree of a given undirected  graph using kruskal's algorithm..
+
+    7. Write a  Program to find the shortest Tour cost for Travelling Sales Person Problem.
+
+    8. Write a  Program to implement 0/1 Knapsack using Dynamic programming.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+
+    9. Write a  Program to Check whether a given graph is connected or not using Depth first search algorithm.
+
+    10. Write a  program to find the GCD of two numbers using recursion and determine the time.
